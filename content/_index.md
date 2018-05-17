@@ -1,5 +1,5 @@
 +++
-title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
+title = "Homepage"
 type = "page"
 [[blocks]]
 background_image = ""
