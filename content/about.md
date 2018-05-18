@@ -12,7 +12,11 @@ template = "call-to-action"
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
+content = "Content"
+heading = "Heading"
+image = "/uploads/2018/04/19/headingcolors-1.png"
 image_position = "Left"
+subheading = "Sub"
 template = "media-feature"
 
 +++
