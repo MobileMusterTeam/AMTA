@@ -8,5 +8,11 @@ content = "Content"
 heading = "Heading"
 subheading = "Subheading"
 template = "call-to-action"
+[[blocks]]
+template = "body-copy"
+[[blocks]]
+background_style = "Brand Color"
+image_position = "Left"
+template = "media-feature"
 
 +++
