@@ -9,4 +9,4 @@ name = "Homepage"
 url = "/"
 weight = 4
 [params]
-logo = "/logo.svg"
+logo = "/uploads/2018/05/19/amta-logo.png"
