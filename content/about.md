@@ -2,7 +2,7 @@
 date = "2018-05-17T08:15:52+00:00"
 title = "About"
 [menu.main]
-weight = 1
+weight = 2
 [[blocks]]
 button_text = "Button Text"
 button_url = "#"
