@@ -1,8 +1,4 @@
 ---
-pages:
-- contacts.md
-- about.md
-- _index.md
 hide_body: true
 is_partial: false
 fields:
@@ -17,3 +13,8 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+pages:
+- membership.md
+- contacts.md
+- about.md
+- _index.md
