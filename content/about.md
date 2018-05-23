@@ -4,14 +4,14 @@ title = "About"
 [menu.main]
 weight = 2
 [[blocks]]
+template = "body-copy"
+[[blocks]]
 button_text = "Button Text"
 button_url = "#"
 content = "Content"
 heading = "Heading"
 subheading = "Subheading"
 template = "call-to-action"
-[[blocks]]
-template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
 content = "Content"
